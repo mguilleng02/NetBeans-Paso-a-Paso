@@ -37,17 +37,14 @@ C:\Program Files\Apache Software Foundation\apache-tomcat-9.0.53\bin>catalina st
 <user password="secreto" roles="manager-gui, manager-script" username="admin"/>
 ```
 
-![image-20210916194807985](C:\Users\manue\AppData\Roaming\Typora\typora-user-images\image-20210916194807985.png)
-
-
-
 ### 3. Configuración en NetBeans
 
 #### CONFIGURACIÓN SERVIDOR
 
 - Abrir NetBeans y seleccionar del menú de navegación superior ``windows / services ``. Se abrirá una ventana a la izquierda (junto a Projects y Files). Seleccionar con clic derecho ``servers``:
 
-![image-20210922161839374](C:\Users\manue\AppData\Roaming\Typora\typora-user-images\image-20210922161839374.png)
+![image](https://user-images.githubusercontent.com/82242888/134365342-1969c848-310f-437d-a1ea-2c90ecd790e7.png)
+
 
 
 
