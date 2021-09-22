@@ -45,23 +45,24 @@ C:\Program Files\Apache Software Foundation\apache-tomcat-9.0.53\bin>catalina st
 
 ![image](https://user-images.githubusercontent.com/82242888/134365342-1969c848-310f-437d-a1ea-2c90ecd790e7.png)
 
+![image](https://user-images.githubusercontent.com/82242888/134365589-572e817a-2b5b-4fde-bada-d74aee9e6390.png)
 
 
+- Seleccionamos la carpeta (nosotros no instalamos TomCat en el terminal, pero si lo hiciésemos, por defecto crea una carpeta ``Apache Software Fundation`` en Archivos de Programa, yo la he creado manualmente y he colocado ahí las distintas versiones de TomCat que tengo para trabajar):
+![image](https://user-images.githubusercontent.com/82242888/134365932-86ac2337-d177-4a33-bf72-ea7e433c00cf.png)
 
-![image-20210922161500040](C:\Users\manue\AppData\Roaming\Typora\typora-user-images\image-20210922161500040.png)
 
-- Seleccionamos la carpeta:
-
-![image-20210922161615841](C:\Users\manue\AppData\Roaming\Typora\typora-user-images\image-20210922161615841.png)
 
 - Introducimos USERNAME y PASSWORD (estos serán los requeridos al iniciar el servidor en NetBeans, no confundir con la contraseña y nombre dados para el TomCat de Manager):
 
-  ![image-20210922161713701](C:\Users\manue\AppData\Roaming\Typora\typora-user-images\image-20210922161713701.png)
+ ![image](https://user-images.githubusercontent.com/82242888/134366005-67d2987c-4fe1-4bc7-8936-5058b94aad1c.png)
+ ![image](https://user-images.githubusercontent.com/82242888/134366090-5b4dcf3c-cd89-4213-9224-34d48d37d3a3.png)
+
 
 #### NUEVO PROYECTO
 
-![image-20210922161003502](C:\Users\manue\AppData\Roaming\Typora\typora-user-images\image-20210922161003502.png)
+![image](https://user-images.githubusercontent.com/82242888/134366168-1b997deb-a8c1-416f-a3ab-21833bc90a3c.png)
 
-![image-20210922161022484](C:\Users\manue\AppData\Roaming\Typora\typora-user-images\image-20210922161022484.png)
+![image](https://user-images.githubusercontent.com/82242888/134366240-09779ac4-c43b-45e8-9857-28d0671facf1.png)
 
-![image-20210922161057284](C:\Users\manue\AppData\Roaming\Typora\typora-user-images\image-20210922161057284.png)
+![image](https://user-images.githubusercontent.com/82242888/134366288-c1858ba4-6100-45f7-a122-c003f6f8890c.png)
